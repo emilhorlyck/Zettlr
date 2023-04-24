@@ -71,7 +71,7 @@
     "vue": "^2.6.12",
     "vue-virtual-scroller": "^1.0.10",
     "vuex": "^3.6.0",
-    "yaml": "^1.10.0"
+    "yaml": "^2.2.2"
   },
   "optionalDependencies": {
     "fsevents": "^2.3.1"
